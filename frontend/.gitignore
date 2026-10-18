@@ -1,0 +1,13 @@
+.plist
+.DS_Store
+xcuserdata/
+*.scuserdata
+DerivedData/
+build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+.build/
+.swiftpm/
+*.swp
+*.lock
